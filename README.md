@@ -11,7 +11,7 @@ Hey, I'm Seek, a Java Developer and Designer.
 <br />
 - 👯 I’m not looking to collaborate right now.
 <br />
-- 💬 Ask me about anything [here](https://discord.gg/PaHypdH7aA)
+- 💬 Ask me about anything on Discord: Seek#4393
 <br />
 <br />
 
