@@ -24,5 +24,5 @@ Hey, I'm Seek, a Java Developer and Designer.
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seekyml&layout=compact&theme=nord" />
 </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seekyml&repo=SMSHPLGN&theme=nord" /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seekyml&repo=SMPCore&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seekyml&repo=AdvancedFarming&theme=nord" /> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seekyml&repo=SpunkySMP&theme=nord" />
