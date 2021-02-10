@@ -5,7 +5,7 @@
 Hey, I'm Seek, a Java Developer and Designer.
 <br />
 <br />
-- 🔭 I’m currently working on the [91t Server](https://github.com/91t)
+- 🔭 I’m currently working on 91t and SMPCore
 <br />
 - 🌱 I’m currently learning Java
 <br />
