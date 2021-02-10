@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/SeekYML/About/master/Seek/About.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/SeekYML/About/master/Seek/About.png "Header")](https://seek.ml/)
 <br />
 ### Hey, i'm [Seek](https://seek.ml) 👋
 <br />
