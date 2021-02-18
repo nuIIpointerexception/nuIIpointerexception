@@ -2,7 +2,7 @@
 <br />
 ### Hey, i'm [Seek](https://seek.ml) 👋
 <br />
-Hey, I'm Seek, a Java Developer and Designer.
+Hey, I'm Seek, a wannabe Java Developer and Designer.
 <br />
 <br />
 - 🔭 I’m currently working on 91t and Advanced Farming
