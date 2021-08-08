@@ -1,21 +1,18 @@
 [![Header](https://raw.githubusercontent.com/SeekYML/About/master/Seek/About.png "Header")](https://seek.ml/)
 <br />
-### Hey, i'm [Seek](https://seek.ml) 👋
+### Hey, i'm [Seek](https://seekvisualartist.com) 👋
 <br />
-Hey, I'm Seek, a wannabe Java Developer and Designer.
+- 🔭 I’m currently working on nothing.
 <br />
-<br />
-- 🔭 I’m currently working on 91t and Advanced Farming
-<br />
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently dissecting and researching these "dream stans".
 <br />
 - 👯 I’m not looking to collaborate right now.
 <br />
-- 💬 Ask me about anything on Discord: Seek#4393
+- 💬 You better not disturb me on Discord: Seek#4393
 <br />
 <br />
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a statistic of which languages i have the most code on github.*
+<br />
+*NOTE: This skill shit is so useless and inaccurate wtf my code is absolute f tier trash.*
 <br />
 <br />
 <a>
@@ -23,5 +20,3 @@ Hey, I'm Seek, a wannabe Java Developer and Designer.
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seekyml&layout=compact&theme=nord" />
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seekyml&repo=AdvancedFarming&theme=nord" /> 
