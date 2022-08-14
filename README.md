@@ -13,7 +13,6 @@
 <br />
   <img align="center" src="https://www.codewars.com/users/bwte/badges/large" />
 <br />
-<br />
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwte&show_icons=true&include_all_commits=true&theme=nord" alt="bwte's Github Stats" />
 </a>
