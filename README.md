@@ -19,8 +19,8 @@
   <img align="center" src="https://www.codewars.com/users/bwte/badges/large" />
 <br />
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwte&show_icons=true&include_all_commits=true&theme=nord" alt="bwte's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwte&show_icons=true&include_all_commits=true&theme=apprentice" alt="bwte's Github Stats" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwte&layout=compact&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwte&layout=compact&theme=apprentice" />
 </a>
