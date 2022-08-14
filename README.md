@@ -1,22 +1,19 @@
-[![Header](https://raw.githubusercontent.com/SeekYML/About/master/Seek/About.png "Header")](https://seekvisualartist.com/)
+[![Header](https://raw.githubusercontent.com/SeekYML/About/master/bwte/About.png "Header")](https://github.com/bwte/)
 <br />
-### Hey, i'm [Seek](https://seekvisualartist.com) 👋
+### Hey, i'm [bwte](https://github.com/bwte/) 👋
 <br />
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on violence.
 <br />
-- 🌱 I’m currently dissecting and researching these "dream stans".
+- 🌱 I’m currently dissecting and researching these "twitter users".
 <br />
 - 👯 I’m not looking to collaborate right now.
 <br />
-- 💬 You better not disturb me on Discord: Seek#4393
+- 💬 You better not disturb me on discord: bwte#6092
 <br />
-<br />
-<br />
-*NOTE: This skill shit is so useless and inaccurate wtf my code is absolute f tier trash.*
-<br />
+  <img align="center" src="https://www.codewars.com/users/bwte/badges/large" />
 <br />
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seekyml&show_icons=true&include_all_commits=true&theme=nord" alt="Seek's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwte&show_icons=true&include_all_commits=true&theme=nord" alt="bwte's Github Stats" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seekyml&layout=compact&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwte&layout=compact&theme=nord" />
