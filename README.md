@@ -4,17 +4,11 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/bwte/ama&leaving=house)
 [![GitHub followers](https://img.shields.io/github/followers/bwte.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/bwte?tab=followers)
 
-<br />
 ### Hey, i'm [bwte](https://github.com/bwte/) 👋
-<br />
 - 🔭 I’m currently working on violence.
-<br />
 - 🌱 I’m currently dissecting and researching these "twitter users".
-<br />
 - 👯 I’m not looking to collaborate right now.
-<br />
 - 💬 You better not disturb me on discord: bwte#6092
-<br />
 <br />
   <img align="center" src="https://www.codewars.com/users/bwte/badges/large" />
 <br />
