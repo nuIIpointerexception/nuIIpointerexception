@@ -17,7 +17,7 @@
         <b>
           <a>
           <h2>Hey, i'm <a href="https://bwte.ml">bwte</a>👋</h2>
-          <h4>:book: I live and study art in Hamburg (Germany)</h4>
+          <h4>:book: I live and study in Hamburg (Germany)</h4>
           <h4>:mailbox: You shall disturb me on discord: bwte#6092</h4>
           <h4>🖌 Interested in motion design and art</h4>
           </a>
