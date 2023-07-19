@@ -1,11 +1,12 @@
 <div align="center">
 
-<div style="margin:0; padding:0">
-  <a href="https://www.seekvisualartist.com"><img src="./seek/About.png" width="1500" style="display:block" /></a>
-  <img src="./seek/2.png" width="1500" style="display:block; margin:0; padding:0"/> 
-  <img src="./seek/3.png" width="1500" style="display:block; margin:0; padding:0"/> 
-  <img src="./seek/4.png" width="1500" style="display:block; margin:0; padding:0"/>
-</div>
+**[![About](./seek/About.png)](https://www.seekvisualartist.com)**
+![Skills](./seek/Palette.png)
+![Skills](./seek/2.png)
+![Skills](./seek/Palette.png)
+![Skills](./seek/3.png)
+![Skills](./seek/Palette.png)
+![Skills](./seek/4.png)
 
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.seekvisualartist.com)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=nuIIpointerexception&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=nuIIpointerexception)
