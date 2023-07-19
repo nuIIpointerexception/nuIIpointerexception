@@ -3,9 +3,9 @@
 **[![About](./seek/About.png)](https://bwte.ml)**
 
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.seekvisualartist.com)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=nuIIpointerexception.visitor-badge)
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827%20Thousand%20lines%20of%20code-blue)
-[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.seekvisualartist.com)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=nuIIpointerexception&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=nuIIpointerexception)
+![Lines of Code](https://img.shields.io/badge/from%20hello%20world%20i%27ve%20written-827%20thousand%20lines%20of%20code-blue)
+[![Ask Me Anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://www.seekvisualartist.com)
 [![GitHub Followers](https://img.shields.io/github/followers/nuIIpointerexception.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/nuIIpointerexception?tab=followers)
 
 </div>
