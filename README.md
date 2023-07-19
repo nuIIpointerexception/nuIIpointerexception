@@ -5,8 +5,6 @@
 ![Skills](./seek/2.png)
 ![Skills](./seek/Tools.png)
 ![Skills](./seek/3.png)
-![Skills](./seek/Palette.png)
-![Skills](./seek/4.png)
 
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.seekvisualartist.com)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=nuIIpointerexception&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=nuIIpointerexception)
