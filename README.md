@@ -3,7 +3,7 @@
 **[![About](./seek/Banner.png)](https://www.seekvisualartist.com)**
 ![Skills](./seek/Intro.png)
 ![Skills](./seek/2.png)
-![Skills](./seek/Skills.png)
+![Skills](./seek/Tools.png)
 ![Skills](./seek/3.png)
 ![Skills](./seek/Palette.png)
 ![Skills](./seek/4.png)
@@ -30,7 +30,7 @@
 
 ## Languages & Tools 🌍 🛠:
 
-![Skills](./seek/Skills.png)
+![Skills](./seek/Tools.png)
 
 </div>
 
