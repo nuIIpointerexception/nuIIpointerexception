@@ -1,9 +1,9 @@
 <div align="center">
 
-**[![About](./seek/About.png)](https://www.seekvisualartist.com)**
-![Skills](./seek/Palette.png)
+**[![About](./seek/Header.png)](https://www.seekvisualartist.com)**
+![Skills](./seek/About.png)
 ![Skills](./seek/2.png)
-![Skills](./seek/Palette.png)
+![Skills](./seek/Skills.png)
 ![Skills](./seek/3.png)
 ![Skills](./seek/Palette.png)
 ![Skills](./seek/4.png)
